@@ -1,5 +1,5 @@
 // Simple World Simulator
-// (ñ) GydruS 2023
+// (c) GydruS 2023
 
 #pragma once
 

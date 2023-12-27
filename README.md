@@ -9,8 +9,16 @@ Personal thanks for discussions and inspiration to Petr Chegodaev! )
 
 You can change anything in project, but You must keep "GydruS" in credits =).
 
+## Controls
 
-### Screenshots
+WSAD+QE - move; Hold Mouse Right Button - look; Enter - return to default point.
+
+Space - stop/start of simulation; C - make simulation step.
+
+Esc - Exit.
+
+
+## Screenshots
 
 Application
 ![SWS](/Docs/ScreenShots/Application-01.jpg?raw=true "SWS Application")

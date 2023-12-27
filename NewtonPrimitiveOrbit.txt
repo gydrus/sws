@@ -1,4 +1,4 @@
-Примитивная орбита по Ньютону, x,y,z[,mass=1][,size=1][,material index=0][,name="The Body"][,initial vector x=0,y=0,z=0]
+Primitive orbit (Newton), x,y,z[,mass=1][,size=1][,material index=0][,name="The Body"][,initial vector x=0,y=0,z=0]
 13.3,1500,10,1000000000000,0, - BoundMass, BoundDistance, T, MassMultyplier[,mode=1(1=PhysKatuschik, 0=Newton)]
-0,0,0,5,5,4,Планета,0,0,0
-0,-700,0,1,1,1,Спутник,0,0,0.7
+0,0,0,5,5,4,Planet,0,0,0
+0,-700,0,1,1,1,Satellite,0,0,0.7

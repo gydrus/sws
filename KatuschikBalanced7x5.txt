@@ -1,6 +1,6 @@
 World 7x5 (700), x,y,z[,mass=1][,size=1][,material index=0][,name="The Body"][,initial vector x=0,y=0,z=0]
 13.3,1500,10,1000000000000,1, - BoundMass, BoundDistance, T, MassMultyplier[,mode=1(1=PhysKatuschik, 0=Newton)]
-0,0,0,5,1,1,Солнце
+0,0,0,5,1,1,Star
 700,0,0,5,5,2
 0,700,0,5,5,3
 0,0,700,5,5,4
